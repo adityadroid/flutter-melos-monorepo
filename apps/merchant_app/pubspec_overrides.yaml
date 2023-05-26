@@ -1,0 +1,8 @@
+# melos_managed_dependency_overrides: bk_customers,bk_ui_kit,bk_utilities
+dependency_overrides:
+  bk_customers:
+    path: ../../packages/bk_customers
+  bk_ui_kit:
+    path: ../../packages/bk_ui_kit
+  bk_utilities:
+    path: ../../packages/bk_utilities

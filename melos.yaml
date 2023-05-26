@@ -1,0 +1,13 @@
+name: monorepo_example
+
+packages:
+  - packages/*
+  - apps/*
+
+scripts:
+  analyze:
+    exec: dart analyze .
+
+command:
+  bootstrap:
+    runPubGetInParallel: false

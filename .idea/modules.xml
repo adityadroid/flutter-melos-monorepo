@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/bk_customers/melos_bk_customers.iml" filepath="$PROJECT_DIR$/packages/bk_customers/melos_bk_customers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/bk_ticketing/melos_bk_ticketing.iml" filepath="$PROJECT_DIR$/packages/bk_ticketing/melos_bk_ticketing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/bk_ui_kit/melos_bk_ui_kit.iml" filepath="$PROJECT_DIR$/packages/bk_ui_kit/melos_bk_ui_kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/bk_utilities/melos_bk_utilities.iml" filepath="$PROJECT_DIR$/packages/bk_utilities/melos_bk_utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/booking_app/melos_booking_app.iml" filepath="$PROJECT_DIR$/apps/booking_app/melos_booking_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/merchant_app/melos_merchant_app.iml" filepath="$PROJECT_DIR$/apps/merchant_app/melos_merchant_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_monorepo_example.iml" filepath="$PROJECT_DIR$/melos_monorepo_example.iml" />
+    </modules>
+  </component>
+</project>

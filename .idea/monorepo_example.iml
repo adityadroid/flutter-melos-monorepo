@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/customers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/customers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/customers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_ticketing/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_ticketing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_ticketing/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_customers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_customers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_customers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_utilities/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_utilities/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_utilities/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/booking_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/booking_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/booking_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/merchant_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/merchant_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/merchant_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_ui_kit/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_ui_kit/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bk_ui_kit/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

@@ -1,0 +1,248 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "ansi_styles",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/ansi_styles-0.3.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/args-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cli_launcher",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/cli_launcher-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/cli_util-0.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/collection-1.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "conventional_commit",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/conventional_commit-0.6.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/glob-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/graphs-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/http-0.13.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/io-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/json_annotation-4.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "melos",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/melos-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mustache_template",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/mustache_template-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/pool-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/process-4.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "prompts",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/prompts-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pub_updater",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/pub_updater-0.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pubspec",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/pubspec-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/quiver-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/test_api-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "uri",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/uri-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yaml_edit",
+      "rootUri": "file:///Users/adityadroid/.pub-cache/hosted/pub.dartlang.org/yaml_edit-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "monorepo_example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generated": "2023-05-25T11:20:46.798916Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.6"
+}
