@@ -7,6 +7,8 @@ packages:
 scripts:
   analyze:
     exec: dart analyze .
+  generate-run-config:
+    run: bash generate_app_run_config.sh
 
 command:
   bootstrap:

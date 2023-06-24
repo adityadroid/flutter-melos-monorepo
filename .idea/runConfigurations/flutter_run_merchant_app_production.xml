@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Merchant App -&gt; production" type="FlutterRunConfigurationType" factoryName="Flutter">
+  <configuration default="false" name="merchant_app -&gt; production" type="FlutterRunConfigurationType" factoryName="Flutter">
     <option name="buildFlavor" value="production" />
     <option name="filePath" value="$PROJECT_DIR$/apps/merchant_app/lib/main_production.dart" />
     <method v="2" />
